@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "malvin~Y6EGXBTC#ic-1PAbomdZ-9n5VpcKFj-h712AW6RDPPyxLzTwckQo",
+SESSION_ID: process.env.SESSION_ID || "malvin~F3tlHJjJ#T0LSqdffk-bW8Huom-3REXJO0YBCNLCdBv1kG7Hk9-o",
 // add your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
@@ -56,7 +56,7 @@ LINK_WHITELIST: "youtube.com,github.com",
 // add alive msg here 
 
 
-        STICKER_NAME: process.env.STICKER_NAME || "J͜͡ 𝔞N𝐊Ȋ̈S͟ *K͎ᕼA͜͡ N̆̈",
+        STICKER_NAME: process.env.STICKER_NAME || "Vₐₗₜᵢₒツ",
 // type sticker pack name 
 
         CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -68,10 +68,10 @@ LINK_WHITELIST: "youtube.com,github.com",
           DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
 
-          OWNER_NUMBER: process.env.OWNER_NUMBER || "252702132341",
+          OWNER_NUMBER: process.env.OWNER_NUMBER || "358465572629",
 // add your bot owner number
 
-OWNER_NAME: process.env.OWNER_NAME || "J͜͡ 𝔞N𝐊Ȋ̈S͟ *K͎ᕼA͜͡ N̆̈",
+OWNER_NAME: process.env.OWNER_NAME || "Vₐₗₜᵢₒツ",
 // add bot owner name
 
               DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*",
@@ -106,7 +106,7 @@ OWNER_NAME: process.env.OWNER_NAME || "J͜͡ 𝔞N𝐊Ȋ̈S͟ *K͎ᕼA͜͡ N̆�
    READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
 
-     DEV: process.env.DEV || "252702132341",
+     DEV: process.env.DEV || "358465572629",
 //replace with your whatsapp number    
     
     ANTI_VV: process.env.ANTI_VV || "true",
