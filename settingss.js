@@ -1,10 +1,10 @@
+//=====🏅 ᴍᴀʟᴠɪɴ  xᴅ🔥====
 
 module.exports = {
-  SESSION_ID: "",  // add your Session Id here
-  
-  OWNER_NUMBER: "263714757857", // put your phone number here
-  
-  PREFIX: ".", // prefix (e.g., ., /, !, *)
-  
-  TIMEZONE: "Africa/Harare" //put your country timeZone....leave blank if u don't know.
+  BOT_NAME: 'ᴍᴀʟᴠɪɴ xᴅ', // ur bot name
+  OWNER_NAME: 'ᴍᴀʟᴠɪɴ ᴋɪɴɢ', //your name
+  OWNER_NUMBER: '263714757857', // add your phone number
+  SESSION_ID: '', // add your session ID
+  MODE: "public", // public or private
+  TIMEZONE: 'Africa/Harare' // ur timezone
 };
