@@ -70,9 +70,6 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 <div align="center">
 
-[![Access Web Portal](https://img.shields.io/badge/🚀_Access_Web_Portal-FF6B00?style=for-the-badge&logo=vercel&logoColor=white)](https://malvin-xd-pair-web.vercel.app)
-
-
 > fast Authentication
 
 [![Get Pairing Code](https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black)](https://starcore-pair.vercel.app/)
@@ -180,7 +177,7 @@ Authenticate using the *web button* below to generate your `Session ID`.
 
 - ❗ MALVIN-XD is **not affiliated with WhatsApp Inc.**
 - 🚫 Misuse may lead to account bans. Use responsibly.
-- 🛑 Cloning, redistributing, or modifying **without proper credit** is strictly prohibited.
+- 🛑 **Cloning, redistributing, or modifying** is strictly prohibited.
 
 <p align="center">
   <img src="https://i.imgur.com/LyHic3i.gif" alt="divider"/>
